@@ -1,4 +1,5 @@
-![i](https://github.com/user-attachments/assets/d5f18310-6c94-42e4-a157-6c3c227e53b4)
+<img width="200" height="200" alt="3942" src="https://github.com/user-attachments/assets/93139a5f-f4a2-482e-9d6e-d6d91b72e3f2" />
+
 
 QWCore
 Клиентский модпак для серверов майнкрафт от qqwaziks
