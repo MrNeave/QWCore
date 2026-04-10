@@ -4,7 +4,12 @@
 QWCore
 Клиентский модпак для серверов майнкрафт от qqwaziks
 
-Все сборки:https://github.com/MrNeave/QWCore/releases
+Все сборки:[https://github.com/MrNeave/QWCore/releases]
 
 Скачать модпак 1.21.1 [Версия 1.0.0] (26.03.2026)
 
+Нашли баг? Ошибку? Вылетает?
+
+Пишите:[https://github.com/MrNeave/QWCore/discussions]
+
+Обсудим решение проблем
